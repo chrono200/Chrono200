@@ -1,149 +1,104 @@
+<!-- ========== HEADER ========== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=260&section=header&text=Hey%2C%20I'm%20USERNAME&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=58" alt="header" />
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Animated coding workstation"/>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" alt="wave" />
 
-# 𝓒𝓗𝓡𝓞𝓝𝓞
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+things+that+matter+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Open+source+enthusiast+%F0%9F%8C%8D;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-### `THINK. CODE. CREATE. REPEAT.`
+<br/>
 
-**Independent Developer | AI Enthusiast | Security Researcher**
-
-*Exploring technology. Building tools. Breaking limits.*
-
-<br>
-
-[![GitHub followers](https://img.shields.io/github/followers/chrono200?style=for-the-badge&color=181717&logo=github)](https://github.com/chrono200)
-[![GitHub stars](https://img.shields.io/github/stars/chrono200?style=for-the-badge&color=yellow&logo=github)](https://github.com/chrono200?tab=repositories)
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=8957e5" alt="followers" />
+<img src="https://img.shields.io/github/stars/USERNAME?style=for-the-badge&logo=starship&color=f0883e" alt="stars" />
 
 </div>
 
 ---
 
-## 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀
+## 👨‍💻 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Developer animation"/>
-
-```python
-class CHRONO:
-    def __init__(self):
-        self.alias = "Deeprince"
-        self.role = "Developer & Builder"
-        self.location = "Nigeria"
-        self.focus = [
-            "Artificial Intelligence",
-            "Cybersecurity",
-            "OSINT",
-            "Automation",
-            "Software Engineering"
-        ]
-
-    def philosophy(self):
-        return "Understand the system. Build beyond limits."
+```js
+const me = {
+  name: "YOUR NAME",
+  role: "Full-Stack Developer",
+  location: "Planet Earth 🌍",
+  currentlyBuilding: "Something awesome",
+  currentlyLearning: ["Rust", "System Design", "AI/ML"],
+  askMeAbout: ["Web dev", "APIs", "Clean code"],
+  funFact: "I debug with console.log and I'm not ashamed 😎",
+};
 ```
 
-I'm a Computer Science student and independent developer interested in understanding how technology works beneath the surface.
+## 🛠️ Tech Arsenal
 
-I enjoy building practical tools, exploring open-source projects, experimenting with AI, and learning the principles behind security and automation.
+<div align="center">
 
-I believe the best way to understand technology is to build with it.
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,html,css&perline=9" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postgres,mongodb,redis,aws,linux,vscode&perline=9" alt="tools" />
 
-<br clear="right"/>
+</div>
 
----
+## 📊 GitHub Stats
 
-## 𝙒𝙃𝘼𝙏 𝙄'𝙈 𝙒𝙊𝙍𝙆𝙄𝙉𝙂 𝙊𝙉
+<div align="center">
 
-| Project | Description | Technology |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
+
+</div>
+
+## 🔥 Featured Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| **ChronoGPT** | Terminal-based AI assistant powered by OpenRouter | Python |
-| **Repo Scout** | Discover and explore GitHub repositories and developers | Python |
-| **CHRONO INTELLIGENCE** | Modular OSINT framework for information gathering and analysis | Python |
-| **CHRONO REV** | Security research and APK analysis toolkit | Python |
-| **ChronoBot** | WhatsApp automation experiments | Node.js |
+| **[Project One](https://github.com/USERNAME/project-one)** | What it does, in one punchy line | `React` `Node` |
+| **[Project Two](https://github.com/USERNAME/project-two)** | What it does, in one punchy line | `Python` `FastAPI` |
+| **[Project Three](https://github.com/USERNAME/project-three)** | What it does, in one punchy line | `TypeScript` `Next.js` |
 
-Explore my repositories:
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Repositories](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github)](https://github.com/chrono200?tab=repositories)
+<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
 
 </div>
 
----
-
-## 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆
-
-**Languages**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,bash,html,css" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,termux,vscode,nodejs,react,nextjs,docker" />
-</p>
-
-**Currently Exploring**
-
-<p>
-<img src="https://skillicons.dev/icons?i=ai,cloudflare,vercel" />
-</p>
-
----
-
-## 𝙈𝙔 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙈𝙀𝙉𝙏 𝙈𝙄𝙉𝘿𝙎𝙀𝙏
-
-<div align="center">
-
-| Principle | Meaning |
-|:---:|---|
-| **Curiosity** | Never stop asking how things work. |
-| **Experimentation** | Learn by building and testing. |
-| **Persistence** | Difficult problems deserve patience. |
-| **Innovation** | Create solutions, not just copies. |
-| **Security** | Understand systems and use knowledge responsibly. |
-
-</div>
-
----
-
-## 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chrono200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="CHRONO GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrono200&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrono200&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 𝙄𝙉𝙎𝙄𝘿𝙀 𝙏𝙃𝙀 𝘾𝙃𝙍𝙊𝙉𝙊 𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝙀
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="85%" alt="Animated programming scene"/>
-
-### `THINK. CODE. CREATE. REPEAT.`
-
-*Behind every great system is an obsession with understanding how things work.*
-
-</div>
-
----
-
-<div align="center">
-
-### `END OF TRANSMISSION`
-
-**CHRONO © 2026**
-
-*The future is built, not awaited.*
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=120&section=footer" alt="footer" />
