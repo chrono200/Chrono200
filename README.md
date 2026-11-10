@@ -20,7 +20,7 @@
     <dt align="left"><strong>Name:</strong></dt>
     <dd align="left">chrono200</dd>
     <dt align="left">Loves:</dt>
-    <dd align="left">Anime, Manga, Games</dd>
+    <dd align="left">Coding, Pentesting, Exploiting</dd>
     <dt align="left">Hobbies:</dt>
     <dd align="left">Coding,
       Gaming,
@@ -67,7 +67,7 @@
 </div>
 <p align='center'>
   <a href="https://chrono200.site"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
-  <a href="https://t.me/chrono200"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+  <a href="https://t.me/maazinstore"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
 </p>
 <br>
 
