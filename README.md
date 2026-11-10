@@ -1,119 +1,91 @@
 
 <body>
-  <center>
+<center>
 
-<!-- ======================================== -->
-<!--          CHRONO200 COMMAND SCREEN         -->
-<!-- ======================================== -->
+<!-- =============== CHRONO200 MONITOR =============== -->
 
 <div align="center">
 
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:090B1A,35:172554,70:4C1D95,100:0891B2&text=CHRONO200&fontSize=65&fontColor=FFFFFF&animation=twinkling&stroke=38BDF8&strokeWidth=1&desc=Developer%20%7C%20Builder%20%7C%20Tech%20Explorer&descSize=16&descAlignY=75" width="100%"/>
+
+<table width="100%" border="0" cellpadding="15" cellspacing="0">
 <tr>
-<td bgcolor="#080D16">
+<td bgcolor="#090D1B">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CHRONO200-SYSTEM_ONLINE-00F5A0?style=for-the-badge&labelColor=080D16" />
+<font color="#38BDF8"><b>◈ CHRONO200 // PERSONAL WORKSTATION ◈</b></font>
 
 <br><br>
 
-<h1>
-<font color="#00F5A0">C H R O N O  2 0 0</font>
-</h1>
-
-<h3>
-<font color="#8B9BB4">PERSONAL COMMAND INTERFACE</font>
-</h3>
-
-<code>INITIALIZING CHRONO ENVIRONMENT...</code>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+workspace.;Building+ideas+into+reality.;Software+Development+%2F+AI+%2F+Security;Always+learning.+Always+building." alt="Animated introduction"/>
 
 <br><br>
 
-<code> [ SYSTEM ] ONLINE </code>
-&nbsp;
-<code> [ ACCESS ] GRANTED </code>
-&nbsp;
-<code> [ MODE ] DEVELOPER </code>
-
-<br><br>
-
-<table width="100%" border="0">
+<table width="90%" border="0">
 <tr>
 <td align="left">
-<font color="#00F5A0"><b>ROOT DIRECTORY</b></font>
+<font color="#A78BFA"><b>USER</b></font>
 </td>
 <td align="right">
-<font color="#8B9BB4">/home/chrono200</font>
+<font color="#E2E8F0">chrono200</font>
 </td>
 </tr>
 <tr>
 <td align="left">
-<font color="#00F5A0"><b>IDENTITY</b></font>
+<font color="#A78BFA"><b>DIRECTORY</b></font>
 </td>
 <td align="right">
-<font color="#8B9BB4">CHRONO200</font>
+<font color="#E2E8F0">~/projects</font>
 </td>
 </tr>
 <tr>
 <td align="left">
-<font color="#00F5A0"><b>CLASSIFICATION</b></font>
+<font color="#A78BFA"><b>INTERESTS</b></font>
 </td>
 <td align="right">
-<font color="#8B9BB4">DEVELOPER</font>
+<font color="#E2E8F0">AI · Cybersecurity · Development</font>
 </td>
 </tr>
 <tr>
 <td align="left">
-<font color="#00F5A0"><b>SPECIALIZATION</b></font>
+<font color="#A78BFA"><b>WORKFLOW</b></font>
 </td>
 <td align="right">
-<font color="#8B9BB4">SOFTWARE / AI / SECURITY</font>
-</td>
-</tr>
-<tr>
-<td align="left">
-<font color="#00F5A0"><b>ENVIRONMENT</b></font>
-</td>
-<td align="right">
-<font color="#8B9BB4">BUILDING & EXPLORING</font>
+<font color="#E2E8F0">Research · Build · Experiment</font>
 </td>
 </tr>
 </table>
 
 <br>
 
-<font color="#00F5A0">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
-
-<br>
-
-<code>root@chrono200:~$ whoami</code>
-
-<br>
-
-<font color="#FFFFFF">A developer who builds, experiments and explores.</font>
+<font color="#38BDF8">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 
 <br><br>
 
-<code>root@chrono200:~$ ./start_session.sh</code>
+<font color="#94A3B8">root@chrono200</font><font color="#A78BFA">:</font><font color="#38BDF8">~</font><font color="#E2E8F0">$ whoami</font>
 
 <br>
 
-<font color="#00F5A0">SESSION ESTABLISHED.</font>
+<font color="#F8FAFC">A developer with a thing for building interesting stuff.</font>
+
+<br><br>
+
+<font color="#94A3B8">root@chrono200</font><font color="#A78BFA">:</font><font color="#38BDF8">~</font><font color="#E2E8F0">$ explore --projects</font>
 
 <br><br>
 
 <a href="https://github.com/chrono200">
-<img src="https://img.shields.io/badge/ENTER_GITHUB-00F5A0?style=for-the-badge&logo=github&logoColor=black&labelColor=00F5A0"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://t.me/chrono200">
-<img src="https://img.shields.io/badge/CONTACT_CHRONO-111827?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT_ME-7C3AED?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <br><br>
 
-<code>CHRONO200 // COMMAND CENTER // END OF TRANSMISSION</code>
+<font color="#64748B">CHRONO200 · PERSONAL WORKSPACE</font>
 
 </div>
 
@@ -121,9 +93,13 @@
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:8B5CF6,100:EC4899&height=3&section=header" width="100%"/>
+
 </div>
 
 <br>
+
+<!-- =============== ORIGINAL PROFILE =============== -->
 
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 
@@ -133,7 +109,8 @@
 
 ![Iron Man](./chibi.gif)
 
-<h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
+<h1 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
+
 </div>
 
 <div align="center">
@@ -154,15 +131,14 @@
       Gaming,
       Reading</dd>
 </dl>
+
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://chrono200.site)
 
-
 <div align="center">
   <h2>𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼</h2>
 </div>
-
 
 <p align="center">
   <img src="https://neonicons.ironmanxd.site/icon/javascript?size=37" alt="JavaScript" />
@@ -193,7 +169,7 @@
 <br>
 
 <div align="center">
-    <h1> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 </h1>
+    <h1>𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮</h1>
 </div>
 
 <p align='center'>
@@ -204,7 +180,7 @@
 <br>
 
 <div align="center">
-    <h1> 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮 </h1>
+    <h1>𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮</h1>
 </div>
 
 <div align="center">
@@ -216,7 +192,7 @@
 <br>
 
 <div align="center">
-    <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
+    <h1>𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰</h1>
 </div>
 
 <img src="https://count.getloli.com/get/@:chrono200?theme=moebooru" alt="chrono200" />
