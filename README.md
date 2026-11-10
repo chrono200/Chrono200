@@ -1,160 +1,91 @@
+<body>
+  <center>
+<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
+<br>
+<div align="center">
+  
+![Iron Man](./chibi.gif)
 
-<!-- ==================== HEADER ==================== -->
+<h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
+</div>
+<div align="center">
+  <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+</div>
+<div>
+  <div align="center">
+    <img src="./2c4542649a439792ce53f5e2cdcb4aff.jpg" align="right" width="170" height="270">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:102A43,100:00D9FF&height=260&section=header&text=Hey,%20I'm%20Chrono&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=58" alt="Chrono profile header"/>
+<dl>
+    <dt align="left"><strong>Name:</strong></dt>
+    <dd align="left">Iron Man</dd>
+    <dt align="left">Loves:</dt>
+    <dd align="left">Anime, Manga, Games</dd>
+    <dt align="left">Hobbies:</dt>
+    <dd align="left">Coding,
+      Gaming,
+      Reading</dd>
+</dl>
+<br>
 
-<!-- ==================== INTRODUCTION ==================== -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://ironmanff.vercel.app)
+
 
 <div align="center">
-
-<a href="https://github.com/chrono200">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+corner+of+GitHub.;I'm+Chrono.;Building+ideas+into+reality.;Exploring+code%2C+systems+%26+technology.;Always+learning.+Always+building." alt="Typing introduction"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=chrono200&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/chrono200?style=for-the-badge&logo=github&color=8957e5" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/chrono200?style=for-the-badge&logo=github&color=f0883e" alt="Stars"/>
-
+  <h2>𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼</h2>
 </div>
 
-<br/>
 
----
+<p align="center">
+  <img src="https://neonicons.ironmanxd.site/icon/javascript?size=37" alt="JavaScript" />
+  <img src="https://neonicons.ironmanxd.site/icon/typescript?size=37" alt="Typescript" />
+  <img src="https://neonicons.ironmanxd.site/icon/python?size=37" alt="Python" />
+  <img src="https://neonicons.ironmanxd.site/icon/ruby?size=37&fek=5" alt="Ruby" />
+  <img src="https://neonicons.ironmanxd.site/icon/php?size=37" alt="PHP" />
+  <img src="https://neonicons.ironmanxd.site/icon/bash?size=37" alt="Bash" />
+  <img src="https://neonicons.ironmanxd.site/icon/mysql?size=37" alt="MySQL" />
+  <img src="https://neonicons.ironmanxd.site/icon/latex?size=37" alt="LaTeX" />
+</p>
 
-## Welcome to my corner of GitHub.
+<p align="center">
+  <img src="https://neonicons.ironmanxd.site/icon/express?size=37" alt="Express" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/nextjs?size=37" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/react?size=37" alt="React" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/threejs?size=37" alt="Three.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/fastify?size=37" alt="Fastify" />
+</p>
 
-I'm Chrono — a developer with an interest in technology, software engineering, artificial intelligence, cybersecurity, and building useful things.
-
-I enjoy figuring out how things work, experimenting with ideas, solving problems, and turning concepts into actual projects.
-
-Most of what I build starts with curiosity.
-
-Sometimes it works on the first try. Usually, it doesn't. Either way, there's always something to learn.
-
----
-
-## About Me
-
-```js
-const chrono = {
-  username: "chrono200",
-  identity: "Developer & Builder",
-
-  interests: [
-    "Software Development",
-    "Artificial Intelligence",
-    "Cybersecurity",
-    "Open Source",
-    "System Engineering"
-  ],
-
-  focus: [
-    "Building practical software",
-    "Exploring emerging technologies",
-    "Learning how systems work"
-  ],
-
-  philosophy: "Understand it. Build it. Improve it."
-};
-```
-
-## Tech Stack & Tools
+<p align="center">
+  <img src="https://neonicons.ironmanxd.site/icon/rails?size=37" alt="Rails" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/krakenjs?size=37" alt="Kraken.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/nodejs?size=37" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironmanxd.site/icon/flask?size=37" alt="Flask" />
+</p>
+<br>
+<div align="center">
+    <h1> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 </h1>
+</div>
+<p align='center'>
+  <a href="https://ironmanxd.site"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
+  <a href="https://t.me/IronManOfc"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+</p>
+<br>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,git,github,linux,bash,vscode&perline=6" alt="Technologies and development tools"/>
-
+    <h1> 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮 </h1>
 </div>
-
----
-
-## Projects & Experiments
-
-A few things I'm working on and exploring.
-
 <div align="center">
-
-<a href="https://github.com/chrono200/Chronogpt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chrono200&repo=Chronogpt&theme=tokyonight&hide_border=true" alt="ChronoGPT project"/>
-</a>
-
-<a href="https://github.com/chrono200/Repo-scout">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chrono200&repo=Repo-scout&theme=tokyonight&hide_border=true" alt="Repo Scout project"/>
-</a>
-
+  <a href="https://www.buymeacoffee.com/ironm4n">
+    <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="60" width="230" style="margin-top: 10px;">
+  </a>
 </div>
 
----
 
-## GitHub Statistics
-
+<br>
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chrono200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=chrono200&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://ghchart.rshah.org/00D9FF/chrono200" alt="Contribution history"/>
-
+    <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
 </div>
+<img src="https://count.getloli.com/get/@:IRON-M4N?theme=moebooru" alt="IRON-M4N" />
 
----
+_______________________
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/chrono200/Chrono200/output/github-snake-dark.svg"/>
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/chrono200/Chrono200/output/github-snake.svg"/>
-
-  <img
-    src="https://raw.githubusercontent.com/chrono200/Chrono200/output/github-snake.svg"
-    width="100%"
-    alt="Chrono's GitHub contribution snake"/>
-</picture>
-
-</div>
-
----
-
-## Beyond the Code
-
-I believe the best way to learn technology is to get involved with it.
-
-Read the documentation. Experiment. Build something. Break it. Figure out why it broke.
-
-Then do it better.
-
-I'm still learning, still exploring, and still working on things that interest me.
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/chrono200">
-<img src="https://img.shields.io/badge/GitHub-chrono200-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-
-<a href="https://github.com/chrono200?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-
-<br/><br/>
-
-<i>Still learning. Still building. Still curious.</i>
-
-</div>
-
-<!-- ==================== FOOTER ==================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:102A43,100:00D9FF&height=130&section=footer" alt="Chrono profile footer"/>
+![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
