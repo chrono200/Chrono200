@@ -53,7 +53,7 @@ const chrono = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chrono200/Chrono200/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/chrono200/chrono200/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
